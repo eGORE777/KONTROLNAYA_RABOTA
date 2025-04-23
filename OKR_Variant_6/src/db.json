@@ -1,0 +1,22 @@
+{  
+  "tickets": [  
+    {  
+      "id": "1",  
+      "race": "New York to London",  
+      "price": 500,  
+      "tripAt": "2025-06-15T10:00:00Z"  
+    },  
+    {  
+      "id": "2",  
+      "race": "Paris to Tokyo",  
+      "price": 700,  
+      "tripAt": "2025-07-20T15:00:00Z"  
+    },
+	{  
+      "id": "3",  
+      "race": "Minsk to Moskow",  
+      "price": 350,  
+      "tripAt": "2025-08-25T19:35:00Z"  
+    }
+  ]  
+}  

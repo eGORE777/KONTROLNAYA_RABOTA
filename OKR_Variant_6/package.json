@@ -1,0 +1,15 @@
+{  
+  "name": "tickets-api",  
+  "version": "1.0.0",  
+  "description": "Сервис по продаже авиабилетов",  
+  "main": "server.js",  
+  "scripts": {  
+    "start": "node server.js"  
+  },  
+  "dependencies": {  
+    "express": "^4.18.2",  
+    "json-server": "^0.17.0",  
+    "dotenv": "^10.0.0"  
+  },  
+  "author": "Трофимов Е.А.",  
+}  
